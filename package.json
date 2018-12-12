@@ -1,7 +1,7 @@
 {
   "name": "alfred-idea",
   "version": "0.1.0",
-  "description": "IntelliJ IDEA Open dir or proj",
+  "description": "打开或切换idea工程 Open Recent project or Switch project window.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

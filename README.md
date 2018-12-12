@@ -1,6 +1,6 @@
 # alfred-idea
 
-> [Alfred 3](https://www.alfredapp.com/) workflow，打开或切换idea工程 Open Recent project or Switch project window.
+> [Alfred 3](https://www.alfredapp.com/) workflow，打开或切换idea工程 Open Recent project or Switch project window.
 
 ![](docs/idea.gif)
 ![](docs/idea.jpg)
