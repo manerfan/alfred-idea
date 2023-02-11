@@ -22,7 +22,7 @@
   "homepage": "https://github.com/manerfan/alfred-idea#readme",
   "dependencies": {
     "alfred-notifier": "^0.2.3",
-    "alfy": "^0.8.0",
+    "alfy": "^1.1.0",
     "bluebird": "^3.5.3",
     "execa": "^1.0.0",
     "user-home": "^2.0.0",
